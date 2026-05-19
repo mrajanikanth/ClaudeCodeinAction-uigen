@@ -4,3 +4,6 @@ CLAUDE.local.md
 node_modules/
 .next/
 prisma/dev.db
+.idea/
+.playwright-mcp/
+counter-preview.png
